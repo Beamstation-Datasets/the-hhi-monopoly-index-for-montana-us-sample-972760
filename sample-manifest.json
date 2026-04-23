@@ -1,12 +1,12 @@
 {
-  "export_job_id": "e574250f-8756-47de-a46b-2aa1c0a6dd7c",
+  "export_job_id": "17a83605-a342-43b2-abf4-d2b5493c4feb",
   "id_short": 972760,
-  "published_at": "2026-04-19T07:08:36Z",
+  "published_at": "2026-04-23T07:19:18Z",
   "repo_name": "the-hhi-monopoly-index-for-montana-us-sample-972760",
   "sample_asset_name": "beamstation_972760_restaurants-us-mt_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/972760/beamstation_972760_restaurants-us-mt_SAMPLE_DIST.csv",
-  "sample_records": 12,
-  "sample_sha256": "cbc5ec9e8f7c99af9e237dca93abd7389406ca7d00604e2275ab7c90f60f923a",
-  "sample_size_bytes": 58695,
-  "total_records": 123
+  "sample_records": 7,
+  "sample_sha256": "dd58b3a149e4f2021cd346d24421f5ec48cb3eeba6a61106fa63d90b4d222597",
+  "sample_size_bytes": 38884,
+  "total_records": 77
 }
