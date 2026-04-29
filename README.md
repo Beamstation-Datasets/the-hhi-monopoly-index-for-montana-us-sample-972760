@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Montana, US
 
-> Free BeamStation sample export with 7 rows and masked direct-contact fields.
+> Free BeamStation sample export with 13 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `972760` |
 | Location | Montana |
 | Category | Restaurants |
-| Full dataset size | 77 records |
-| Free sample size | 7 records (9.09%) |
-| Last export | 2026-04-22T12:34:37.043355+00:00 |
+| Full dataset size | 133 records |
+| Free sample size | 13 records (9.77%) |
+| Last export | 2026-04-29T13:27:08.638675+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-montana-us-sample-972760/releases/download/sample-latest/beamstation_972760_restaurants-us-mt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
